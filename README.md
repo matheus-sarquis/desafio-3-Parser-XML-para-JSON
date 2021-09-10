@@ -1,2 +1,6 @@
-# desafio-3-Parser-XML-para-JSON
- Desafio 3: Parser XML para JSON
+Alunos:
+
+Caio Foramiglio, RA 081190043
+Guilherme Simon Lehr RA 081190002
+Lucas Frias Oliveira RA 081190009
+Matheus Faria Sarquis RA 081190031
